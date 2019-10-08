@@ -1,0 +1,19 @@
+{
+  "name": "lara-logger",
+  "version": "1.0.0",
+  "description": "Logger for js laravel with debug level",
+  "main": "logger.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-kisel/js-lara-logger.git"
+  },
+  "keywords": [
+    "laravel", "logger"
+  ],
+  "author": "Denis Kisel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denis-kisel/js-lara-logger/issues"
+  },
+  "homepage": "https://github.com/denis-kisel/js-lara-logger#readme"
+}
