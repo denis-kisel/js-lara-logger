@@ -10,6 +10,6 @@ Logger.debug() //Log if env is not set as production
 ```
 
 ## Dependence
-To use debug level need to install package lara-meta
+To use the debug level, you need to install the lara-meta package
 * [lara-meta](https://github.com/denis-kisel/js-lara-meta)
 
